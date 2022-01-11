@@ -1,6 +1,6 @@
 ### Halo semua! 👋
 
-Perkenalkan nama saya **Muhammad Ezra Fathurraman**.\
+Perkenalkan nama saya **Muhammad Ezra Fathurraman**.
 
 Saya seorang **Mahasiswa Ilmu Komputer** tingkat akhir di IPB University
 
