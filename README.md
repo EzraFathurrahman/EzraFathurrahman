@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa Ilmu Komputer** tingkat akhir di IPB University
 
 Saya memiliki ketertarikan terhadap Web Apps Development.  
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/muhammad-ezra) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/muhammad-ezra) ku ya.
 
 <p align="left">
 <a href="https://github.com/EzraFathurrahman">
