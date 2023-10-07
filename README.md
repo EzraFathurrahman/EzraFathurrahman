@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Muhammad Ezra Fathurraman**.
 
-Saya seorang **Mahasiswa Ilmu Komputer** tingkat akhir di IPB University
+Saya seorang **Fresh Graduate** ilmu komputer dari IPB University
 
-Saya memiliki ketertarikan terhadap Web Apps Development.  
+Saya memiliki ketertarikan terhadap Web App Development dengan spesialisasi pada backend development.  
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti aku ya.
 
