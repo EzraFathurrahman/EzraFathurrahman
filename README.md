@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezra Fathurrahman</h1>
 <h3 align="center">A passionate Backend Developer, highly motivated to learn new things and strengthening skills in software engineering</h3>
 
-- 🔭 I’m currently working on some projects using **Golang and Java SpringBoot projects**
+- 🔭 I’m currently working on some projects using **Golang** and **Java SpringBoot** projects
 
-- 🌱 I’m currently learning **Backend Development with specialization in Golang with Gin and Java SpringBoot**
+- 🌱 I’m currently learning **Backend Development** with specialization in **Golang** with Gin and **Java SpringBoot**
 
 - 👨‍💻 Some of my frontend projects are available at [https://ezra-portfolios.netlify.app/](https://ezra-portfolios.netlify.app/)
 
