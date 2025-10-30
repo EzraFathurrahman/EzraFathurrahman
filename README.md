@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Backend Development** with specialization in **Golang** with Gin and **Java SpringBoot**
 
-- 👨‍💻 Some of my projects are available at [https://ezra-portfolios.netlify.app/](https://ezra-portfolios.netlify.app/)
+- 👨‍💻 Some of my projects are available at  [https://ezra-portfolios.netlify.app/](https://ezra-portfolios.netlify.app/)
 
 - 📫 How to reach me **ezrafathurrahman@gmail.com**
 
-- 📄 Know about my experiences here : [https://bit.ly/resume-ezrafathur](https://bit.ly/resume-ezrafathur)
+- 📄 Know about my experiences here :
+https://ezra-studio.web.app/
+[https://bit.ly/resume-ezrafathur](https://bit.ly/resume-ezrafathur)
 
 - ⚡ Fun fact **I like cats, coffee, coding, and cookies**
 
